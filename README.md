@@ -23,6 +23,6 @@ Concept website covering the full booking journey for a group-travel brand, from
 ## Skills
 
 - **ML:** Python, PyTorch, Hugging Face Transformers, PEFT/QLoRA, RAG, FAISS, scikit-learn, Pandas
-- **Web:** JavaScript, HTML/CSS, Tailwind CSS, Node.js, Express, REST APIs, MySQL
+- **Web:** JavaScript, HTML/CSS, Node.js, Express, REST APIs, MySQL
 - **Design:** Figma, UI/UX, design systems, prototyping, Arabic RTL interfaces
 - **Tools:** Git and GitHub
